@@ -4,7 +4,7 @@ A Telegram Bot to Play Audio in Voice Chats.
 
 ## Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/subinps/music)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/subinps/MusicPlayer)
 
 # Heroku Vars:
 1. `API_ID` : Get From my.telegram.org
