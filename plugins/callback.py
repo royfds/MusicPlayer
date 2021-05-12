@@ -134,5 +134,4 @@ async def cb_handler(client: Client, query: CallbackQuery):
         except:
             pass
     elif query.data=="help":
-        await query.edit_message_text("Just sent an audio file to play. You can use @DeezerMusicBot in inline mode to get audio file🤷🏼‍♂️\nUse /help to know available commands.")
-
+        await query.edit_message_text("Just sent an audio file to play. T.me/moviezbarn  You can use @DeezerMusicBot in inline mode to get audio file🤷🏼‍♂️\nUse /help to know available commands.")
